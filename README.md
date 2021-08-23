@@ -1,2 +1,1 @@
-# Study
-What I learn for me
+# What I learn for me
